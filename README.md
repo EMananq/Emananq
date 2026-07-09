@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi there, I'm Manan Lakhotia 👋
 
-<!--
-**EMananq/Emananq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://linkedin.com/in/manan-lakhotia-67aa20314" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mananlakhotia1000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:7877013547">
+    <img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 AI Engineer & LLM Systems Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building production-grade LLM applications, multi-agent workflows, and scalable data intelligence pipelines. I focus on deploying real-world AI systems using **RAG, FastAPI, and distributed architectures** that drive measurable business impact.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💻 Languages & Core CS</h3>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <br>
+      <i>Data Structures & Algorithms • Probability & Statistics • Linear Algebra</i>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🧠 GenAI & Deep Learning</h3>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <br>
+      <i>LangChain • Multi-Agent Workflows • RAG Pipelines • Vector DBs (Chroma, Pinecone) • Fine-Tuning (LoRA) • Named Entity Recognition (NER) • OpenCV</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Work Experience
+
+#### **AI/ML Intern** @ Planet Sustech (Delhi, India)
+*Jan 2026 – Present*
+1. **Multi-Agent ESG System**: Designed and deployed LangChain workflows using GPT-4 to automate ESG document ingestion, validation, and reporting (saving 40–60% manual overhead).
+2. **Data Validation**: Engineered a hybrid validation framework combining statistical methods (Z-score, IQR, time-series) and 25+ configurable business rules to ensure data reliability with <10% false positives.
+3. **Computer Vision**: Built a Waste Classification/Contamination detection CV pipeline (ResNet50 & EfficientNet) trained on ~50k images.
+4. **Scale Deployment**: Deployed high-throughput FastAPI services handling batch processing (~50 docs in <10m) and real-time inference.
+
+#### **ML Engineer Intern** @ Areksoft Technologies (Hyderabad, India)
+*Jun 2024 – Aug 2024*
+1. Built end-to-end ML pipelines including pre-processing, feature engineering, training, and low-latency API deployment (<200ms inference).
+2. Developed and optimized deep learning classification models to achieve 85-88% accuracy.
+3. Implemented transformer-based (BERT/LLM) NLP extraction pipelines for unstructured datasets.
+
+---
+
+## 📂 Key Projects
+
+### 🛡️ Federated LLM System for Privacy-Preserving Code Intelligence
+*FedEx-LoRA • CodeT5 • Streamlit*
+1. Designed a federated learning framework enabling multi-org LLM training on private codebases without data sharing.
+2. Implemented an custom aggregation strategy (FedEx-LoRA), reducing communication rounds by 25% and improving convergence by 12%.
+3. Maintained high parameter efficiency using LoRA (~0.5% trainable parameters).
+
+### 📋 Multi-Agent AI System for RFP Intelligence & Decision Support
+*LangChain • RAG • ChromaDB*
+1. Built an automated request-for-proposal (RFP) assessment system using LangChain agents with dynamic query routing.
+2. Developed custom RAG retrieval workflows over complex document requirements.
+3. Implemented risk, compliance, and suitability agents to generate actionable Go/No-Go proposal recommendations.
+
+---
+
+## 🎓 Education
+1. **B.Tech in Computer Science Engineering (CSE)** — BML Munjal University, Gurgaon (2022 - 2026)
+   * *Focus*: Software Engineering, Computer Networks, Machine Learning, Data Structures & Algorithms.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EMananq&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Manan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMananq&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</p>
