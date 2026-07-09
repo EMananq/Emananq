@@ -70,8 +70,6 @@ I specialize in building production-grade LLM applications, multi-agent workflow
 
 ---
 
-## 🏆 GitHub Milestones & Activity
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EMananq&theme=radical&margin-w=15&margin-h=15)
+## 📊 GitHub Activity & Metrics
 
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=EMananq&theme=radical)
