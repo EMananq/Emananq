@@ -64,22 +64,6 @@ I specialize in building production-grade LLM applications, multi-agent workflow
 
 ---
 
-## 📂 Key Projects
-
-### 🛡️ Federated LLM System for Privacy-Preserving Code Intelligence
-*FedEx-LoRA • CodeT5 • Streamlit*
-1. Designed a federated learning framework enabling multi-org LLM training on private codebases without data sharing.
-2. Implemented an custom aggregation strategy (FedEx-LoRA), reducing communication rounds by 25% and improving convergence by 12%.
-3. Maintained high parameter efficiency using LoRA (~0.5% trainable parameters).
-
-### 📋 Multi-Agent AI System for RFP Intelligence & Decision Support
-*LangChain • RAG • ChromaDB*
-1. Built an automated request-for-proposal (RFP) assessment system using LangChain agents with dynamic query routing.
-2. Developed custom RAG retrieval workflows over complex document requirements.
-3. Implemented risk, compliance, and suitability agents to generate actionable Go/No-Go proposal recommendations.
-
----
-
 ## 🎓 Education
 1. **B.Tech in Computer Science Engineering (CSE)** — BML Munjal University, Gurgaon (2022 - 2026)
    * *Focus*: Software Engineering, Computer Networks, Machine Learning, Data Structures & Algorithms.
@@ -88,7 +72,5 @@ I specialize in building production-grade LLM applications, multi-agent workflow
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EMananq&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Manan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMananq&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
+![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EMananq&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EMananq&layout=compact&theme=radical)
