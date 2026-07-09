@@ -70,6 +70,6 @@ I specialize in building production-grade LLM applications, multi-agent workflow
 
 ---
 
-## 📊 GitHub Activity & Metrics
+## 📊 Stats
 
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=EMananq&theme=radical)
+![Total Contributions](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Contributions&query=total&url=https://github-contributions-api.deno.dev/user/EMananq&color=brightgreen)
