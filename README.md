@@ -72,4 +72,6 @@ I specialize in building production-grade LLM applications, multi-agent workflow
 
 ## 📊 Stats
 
-![Total Contributions](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Contributions&query=total&url=https://github-contributions-api.deno.dev/user/EMananq&color=brightgreen)
+<p align="left">
+  <img src="https://img.shields.io/badge/Contributions-200%2B-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions" />
+</p>
